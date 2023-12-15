@@ -1,4 +1,4 @@
-# 🚀 Revolt Auto Answer
+# 🚀 Revolt
 
 # 🛠️ Installation
 1. Install the Tampermonkey extension for your browser.
