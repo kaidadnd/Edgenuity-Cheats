@@ -1,7 +1,7 @@
 # 🚀 Revolt
 To get this script join our discord server! 
 
-[https://discord.gg/BjJ2MP3J](https://discord.gg/imaginelearning)
+[https://discord.gg/BjJ2MP3J](https://discord.gg/revoltedge)
 
 
 https://github.com/kaidadnd/Edgenuity-Hacks/assets/149662766/e0d77069-87c5-4321-a508-30c6dc5f4e61
