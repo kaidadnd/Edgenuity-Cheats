@@ -1,7 +1,7 @@
 # 🚀 Revolt
 To access this script, join our Discord server!
 
-https://discord.gg/revoltedge
+https://discord.gg/edgenuity
 
 
 https://github.com/kaidadnd/Edgenuity-Hacks/assets/149662766/e0d77069-87c5-4321-a508-30c6dc5f4e61
