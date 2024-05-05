@@ -1,7 +1,7 @@
 # 🚀 Revolt
 To access this script, join our Discord server!
 
-```https://www.opera.com/browsers/opera-for-chromebook```
+```https://www.youtube.com/watch?v=B38lCQbfuR8```
 
 https://discord.gg/edgenuity
 
