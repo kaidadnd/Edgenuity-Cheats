@@ -1,7 +1,7 @@
 # 🚀 Revolt
 To access this script, join our Discord server!
 
-```https://www.youtube.com/watch?v=B38lCQbfuR8```
+```codeweavers.com/crossover/download-now?distro=deb```
 
 https://discord.gg/edgenuity
 
