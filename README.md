@@ -1,7 +1,8 @@
 # 🚀 Revolt
-#Edgenuity Bot
-#Edgenuity Script
-#Edgenuity Hacks
+
+# Edgenuity Bot
+# Edgenuity Script
+# Edgenuity Hacks
 
 To access the software, join our Discord server!
 
