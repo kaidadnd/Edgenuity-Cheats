@@ -1,8 +1,4 @@
-# 🚀 Revolt
-
-# Edgenuity Bot
-# Edgenuity Script
-# Edgenuity Hacks
+# 🚀 Revolt Edgenuity Bot
 
 To access the revolt, join the revoltEdge Discord server!
 
@@ -42,6 +38,9 @@ And more+
 Fully Automated 🔒
 
 Works on all types of coursework!
+
+Edgenuity Script
+Edgenuity Hacks
 
 # ⚠️ Disclaimer
 Please be aware that using scripts to automatically answer assignments may constitute academic dishonesty. We don’t recommend you use Revolt for edgenuity specifically. Revolt wasn’t made for edgenuity, it was made to automate all sites. It just happens to work with that site. We strongly advise against using this tool in situations where it violates educational integrity or institutional policies. This script is provided for educational and demonstration purposes only, and we do not endorse its use for unethical practices.
