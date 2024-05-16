@@ -1,9 +1,8 @@
 # 🚀 Revolt Edgenuity Bot
 
-To access the revolt, join the revoltEdge Discord server!
+Join the revoltEdge Discord server!
 
 https://discord.gg/edgenuity
-
 
 https://github.com/kaidadnd/Revolt/assets/149662766/21db7dec-98e1-4506-8513-0c1e3b13b7bb
 
