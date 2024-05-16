@@ -1,6 +1,6 @@
 # 🚀 Revolt Edgenuity Bot
 
-Join the revoltEdge Discord server!
+Join the RevoltEdge Discord server!
 
 https://discord.gg/edgenuity
 
