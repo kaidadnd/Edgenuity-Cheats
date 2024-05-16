@@ -9,7 +9,8 @@ To access the software, join our Discord server!
 https://discord.gg/edgenuity
 
 
-codeweavers.com/crossover/download-now?distro=deb
+https://github.com/kaidadnd/Revolt/assets/149662766/70c26ad4-d35d-48ee-b0e9-e061fc117ece
+
 
 # 🔍 How It Works
 
