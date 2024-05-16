@@ -4,7 +4,8 @@ Join the RevoltEdge Discord server!
 
 https://discord.gg/edgenuity
 
-https://github.com/kaidadnd/Revolt/assets/149662766/21db7dec-98e1-4506-8513-0c1e3b13b7bb
+
+https://github.com/kaidadnd/Revolt/assets/149662766/96e16a4d-0fdc-4600-9358-60f594c63c38
 
 
 # 🔍 How It Works
