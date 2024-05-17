@@ -3,7 +3,8 @@
 Join the RevoltEdge Discord server!
 
 
-https://discord.gg/cUh7zZCJfK
+https://discord.gg/JqVMfUHzEF
+
 
 
 
