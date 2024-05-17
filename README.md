@@ -2,7 +2,8 @@
 
 Join the RevoltEdge Discord server!
 
-https://discord.gg/edgenuity
+
+discord.gg/cUh7zZCJfK
 
 
 https://github.com/kaidadnd/Revolt/assets/149662766/96e16a4d-0fdc-4600-9358-60f594c63c38
