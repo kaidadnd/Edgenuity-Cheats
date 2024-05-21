@@ -96,11 +96,8 @@
   height: 275px;
   overflow-y: scroll;
 }
-//migration body {
+body {
   font-family: "Poppins", sans-serif;
-}
-.main-container.dark-mode {
-  background: #111825;
 }
 .main-container.dark-mode .header {
   background: #222836;
@@ -136,7 +133,6 @@
   box-shadow: 0px 4px 8px 0px #0000001A;
   color: #fff;
 }
-.main-container.dark-mode,
 .main-container.dark-mode .btn2:hover {
   background: #3b465e;
 }
@@ -150,7 +146,6 @@
   width: 375px;
   height: 612px;
   border-radius: 31px;
-  background: #F3F3F3;
   position: absolute;
   left: 50%;
   top: 50%;
@@ -266,7 +261,7 @@
 }
 .lightbtn:hover,
 .darkbtn:hover {
-  tranform: scale(1.02);
+  transform: scale(1.02);
   -webkit-transform: scale(1.02);
   -moz-transform: scale(1.02);
   -o-transform: scale(1.02);
@@ -351,7 +346,7 @@ button.darkbtn img {
 }
 .accordion.open input {
   border-color: #17607F !important;
-  max-width: 200px;
+  max-width: 100px;
 }
 .hide {
   display: none;
@@ -382,7 +377,10 @@ button.darkbtn img {
   padding: 7px;
   margin: 10px 0px;
   border-radius: 6px;
-  display: grid;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
 }
 .input-group label {
   font-family: Poppins;
@@ -394,7 +392,8 @@ button.darkbtn img {
 }
 .input-group input {
   border: 0;
-  background: #A3A3A3;
+  background: #ffffff4D;
+  color: #fff;
   margin-top: 8px;
   padding: 6px;
   margin-bottom: 5px;
@@ -475,9 +474,6 @@ button.darkbtn img {
 .darkimg {
   display: none;
 }
-img.white-arrow {
-  display: none;
-}
 .accordion.active .close-accordion {
   background:
     linear-gradient(
@@ -528,4 +524,174 @@ img.white-arrow {
   padding: 7px;
   width: 350px;
   outline: none;
+}
+.collapse-container {
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  max-height: 100%;
+  border-radius: 0px 0px 31px 31px;
+  box-shadow: 0px 4px 24px 0px #00000040;
+}
+.collapse-btn {
+  outline: none;
+  background: transparent;
+  border: none;
+}
+.collapse-btn svg {
+  transition: rotate 0.2s ease-out;
+  transform: rotate(270deg);
+}
+.ui-collapsed {
+  max-height: 0;
+}
+.light-bg {
+  background: #F3F3F3;
+}
+.dark-bg {
+  background: #3b465e;
+}
+.menu-list {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+}
+.Revolt-dark-mode :root,
+[data-bs-theme=light] {
+  --bs-body-bg: #242526 !important;
+  --bs-light-rgb:
+    36,37,38 !important;
+}
+.Revolt-dark-mode .home-page-background {
+  background-color: #242526 !important;
+}
+.Revolt-dark-mode .sle-card.card {
+  background-color: #3a3b3c !important;
+}
+.Revolt-dark-mode .card {
+  --bs-card-color: #fff !important;
+}
+.Revolt-dark-mode :root {
+  --bs-body-color: #fff !important;
+}
+.Revolt-dark-mode .progress-label {
+  color: #fff !important;
+}
+.Revolt-dark-mode .card-subject {
+  color: #adadad !important;
+}
+.Revolt-dark-mode .navbar {
+  background-color: #242526 !important;
+  border-bottom: 3px solid #3a3b3c !important;
+}
+.Revolt-dark-mode .header-icon {
+  color: #fff !important;
+}
+.Revolt-dark-mode .profile-button {
+  background-color: #3a3b3c !important;
+  color: #fff !important;
+}
+.Revolt-dark-mode .footer a:link,
+.footer a:visited {
+  color: #fff !important;
+  text-decoration: none !important;
+}
+.Revolt-dark-mode .dropdown-menu {
+  background-color: #242526 !important;
+}
+.Revolt-dark-mode .nav-link {
+  color: #fff !important;
+}
+.Revolt-dark-mode .nav-link:active {
+  background-color: #242526 !important;
+}
+.Revolt-dark-mode .sidebar .nav-link.active {
+  background-color: #242526 !important;
+}
+.Revolt-dark-mode .ActivityTile-border-default {
+  border: 2px solid #444647;
+  background-color: #d0d6db;
+}
+.Revolt-dark-mode .header .courseware {
+  background-color: #242526 !important;
+}
+.Revolt-dark-mode .ActivityTile-day,
+.ActivityTile-month {
+  color: #fff !important;
+}
+.Revolt-dark-mode .page-title {
+  background-color: #242526 !important;
+  border-bottom: 1px solid #444647 !important;
+}
+.Revolt-dark-mode .sidebar {
+  background-color: #242526 !important;
+  border-right: 1px solid #444647 !important;
+}
+.Revolt-dark-mode .btn-primary {
+  background-color: #0982f8 !important;
+  border-color: #0982f8 !important;
+}
+.Revolt-dark-mode .btn-outline-primary {
+  background-color: #0982f8 !important;
+  border-color: #0982f8 !important;
+  color: #fff !important;
+}
+.Revolt-dark-mode .ActivityTile-status-completed {
+  background-color: #3a3b3c !important;
+}
+.Revolt-dark-mode .font-weight-bold {
+  color: #ffffff !important;
+}
+.Revolt-dark-mode .h2.my-0.ml-2 {
+  color: #fff !important;
+}
+.Revolt-dark-mode .container-progress {
+  background-color: #2d2f33 !important;
+}
+.Revolt-dark-mode .ActivityTile-border-gated {
+  border: 2px solid #444647 !important;
+  background-color: #3a3b3c !important;
+  opacity: 50% !important;
+}
+.Revolt-dark-mode .mainhead {
+  background-color: #0982f8 !important;
+}
+.Revolt-dark-mode .activityActive.dark {
+  background-color: #242526 !important;
+}
+.Revolt-dark-mode .gradebar-wrap .gradebar {
+  background: #3a3b3c !important;
+  border: 1px solid #3a3b3c !important;
+}
+.Revolt-dark-mode .Toolbar {
+  background-color: #3a3b3c !important;
+}
+.Revolt-dark-mode .Played {
+  background-image:
+    linear-gradient(
+      to top,
+      #0982f8,
+      #4E44C4) !important;
+}
+.Revolt-dark-mode .Toolbar .FramesList li.FrameRight a {
+  filter: hue-rotate(231.4deg) !important;
+}
+.Revolt-dark-mode .Toolbar .FramesList li.FrameLeft a {
+  filter: hue-rotate(231.4deg) !important;
+}
+.Revolt-dark-mode .Toolbar .FramesList li.FrameCurrent a {
+  background-image:
+    linear-gradient(
+      to top,
+      #695cfe,
+      #4E44C4) !important;
+  background-color: #0982f8 !important;
+}
+.Revolt-dark-mode .Toolbar .FramesList li.FrameComplete a {
+  border: 1px solid #0982f8 !important;
+}
+.Revolt-dark-mode .Scrubber {
+  filter: hue-rotate(231.4deg) !important;
+}
+.Revolt-dark-mode img.edgenuity-logo {
+  filter: brightness(0) invert(.8) !important;
 }
