@@ -100,7 +100,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 .main-container.dark-mode .header {
-  background: #222836;
+  background: #242526;
   box-shadow: 0px 4px 24px 0px #000000BF;
 }
 .main-container.dark-mode .brand-name h3 {
@@ -113,22 +113,22 @@ body {
   color: #fff;
 }
 .main-container.dark-mode .footers {
-  background: #222836;
+  background: #242526;
   box-shadow: 0px 4px 24px 0px #000000BF;
 }
 .main-container.dark-mode .lightbtn {
   border: 2px solid #323232;
-  background: #222836;
+  background: #242526;
   color: #A6A6A6;
 }
 .main-container.dark-mode .darkbtn {
-  background: #222836;
+  background: #242526;
   border: 2px solid #195C8A;
   color: #1F9CB8;
 }
 .main-container.dark-mode .close-accordion,
 .main-container.dark-mode .btn2 {
-  background: #2C3446;
+  background: #242526;
   border: 0px solid #0000001A;
   box-shadow: 0px 4px 8px 0px #0000001A;
   color: #fff;
@@ -548,7 +548,7 @@ button.darkbtn img {
   background: #F3F3F3;
 }
 .dark-bg {
-  background: #3b465e;
+  background: #3a3b3c;
 }
 .menu-list {
   display: flex;
