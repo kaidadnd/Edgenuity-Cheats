@@ -166,6 +166,7 @@ body {
 .header .wrapper {
   display: flex;
   align-items: center;
+  width: 100%;
 }
 .header .control-box .minimize {
   outline: none;
@@ -173,19 +174,24 @@ body {
   height: 25px;
   border-radius: 12px;
 }
-.logo {
-  padding-right: 20px;
+.logo h1 {
+  font-weight: bold;
+  font-size: 2.5em;
+  border-right: 2px solid #858585;
+  padding-right: 10px;
+}
+.brand-name {
+  padding-left: 10px;
 }
 .brand-name h3 {
   font-family: Poppins;
-  font-size: 20px;
   font-weight: 600;
   line-height: 20px;
-  text-align: left;
   color: #000000;
   margin: 0px;
-  padding-bottom: 6px;
   height: auto;
+  font-size: 1em;
+  text-align: left;
 }
 .brand-name p span {
   font-family: Poppins;
@@ -197,12 +203,12 @@ body {
 }
 .brand-name p {
   font-family: Poppins;
-  font-size: 14px;
   font-weight: 600;
   line-height: 21px;
-  text-align: left;
   color: #545454;
   margin: 0px;
+  font-size: 0.65em;
+  text-align: left;
 }
 .footers {
   width: 375px;
