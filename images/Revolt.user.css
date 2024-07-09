@@ -168,6 +168,11 @@ body {
   align-items: center;
   width: 100%;
 }
+.header .control-box {
+  position: absolute;
+  right: -13px;
+  filter: drop-shadow(0px 4px 24px #00000040);
+}
 .header .control-box .minimize {
   outline: none;
   width: 25px;
@@ -176,7 +181,7 @@ body {
 }
 .logo h1 {
   font-weight: bold;
-  font-size: 2.5em;
+  font-size: 40px;
   border-right: 2px solid #858585;
   padding-right: 10px;
 }
@@ -190,16 +195,8 @@ body {
   color: #000000;
   margin: 0px;
   height: auto;
-  font-size: 1em;
+  font-size: 16px;
   text-align: left;
-}
-.brand-name p span {
-  font-family: Poppins;
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 21px;
-  text-align: left;
-  color: #888888;
 }
 .brand-name p {
   font-family: Poppins;
@@ -207,8 +204,12 @@ body {
   line-height: 21px;
   color: #545454;
   margin: 0px;
-  font-size: 0.65em;
+  font-size: 12px;
   text-align: left;
+  transition: all 0.2s ease-in-out;
+}
+.brand-name p span {
+  color: #545454;
 }
 .footers {
   width: 375px;
