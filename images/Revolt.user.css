@@ -153,7 +153,6 @@ body {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  box-shadow: 0px 4px 24px 0px #00000040;
 }
 .header {
   width: 375px;
@@ -165,6 +164,7 @@ body {
   justify-content: space-between;
   background: #FFFFFF;
   padding: 0 20px;
+  box-shadow: 0px 4px 24px 0px #00000040;
 }
 .header .wrapper {
   display: flex;
@@ -330,7 +330,25 @@ button.darkbtn img {
   color: #545454;
   width: 100%;
   position: relative;
-  margin-bottom: 5px;
+}
+#assignment-unlocker-button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.locked {
+  background-color: #f9f9f9;
+  color: #aaa;
+}
+#assignment-unlocker-button.locked {
+  cursor: not-allowed;
+}
+#assignment-unlocker-button.locked:hover {
+  background: #fff;
+}
+.lockIcon {
+  width: 17px;
+  opacity: 30%;
 }
 .accordion-info {
   display: flex;
@@ -467,7 +485,7 @@ button.darkbtn img {
   transition: max-height 0.4s ease-in-out;
 }
 .accordion {
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   cursor: pointer;
 }
 #tooltip {
@@ -590,6 +608,7 @@ button.darkbtn img {
   transition: max-height 0.2s ease-out;
   max-height: 100%;
   border-radius: 0px 0px 31px 31px;
+  box-shadow: 0px 4px 24px 0px #00000040;
 }
 .collapse-btn {
   outline: none;
@@ -753,4 +772,21 @@ button.darkbtn img {
 }
 .Revolt-dark-mode img.edgenuity-logo {
   filter: brightness(0) invert(.8) !important;
+}
+.custom-tooltip {
+  position: absolute;
+  width: 200px;
+  right: -10px;
+  top: -70px;
+  background: #fff;
+  color: #1b1b1b;
+  padding: 5px;
+  border-radius: 5px;
+  z-index: 9999;
+  opacity: 0;
+  transition: opacity 0.3s;
+  font-size: 12px;
+  text-align: center;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  pointer-events: none;
 }
