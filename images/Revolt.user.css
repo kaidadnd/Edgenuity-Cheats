@@ -133,6 +133,9 @@ body {
   box-shadow: 0px 4px 8px 0px #0000001A;
   color: #fff;
 }
+.main-container.dark-mode .auto-btn:hover {
+  background: #2a2b2c;
+}
 .main-container.dark-mode .btn2:hover {
   background: #3b465e;
 }
@@ -150,9 +153,9 @@ body {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
+  box-shadow: 0px 4px 24px 0px #00000040;
 }
 .header {
-  box-shadow: 0px 4px 24px 0px #00000040;
   width: 375px;
   height: 95px;
   border-radius: 31px 31px 0px 0px;
@@ -329,11 +332,46 @@ button.darkbtn img {
   position: relative;
   margin-bottom: 5px;
 }
-.close-accordion img {
-  position: absolute;
-  right: 12px;
+.accordion-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(180deg);
+  }
+}
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.close-accordion .expand_icon {
   cursor: pointer;
-  visibility: hidden;
+  border: none;
+  background: transparent;
+  padding: 0;
+  height: 20px;
+}
+.expand_icon svg {
+  width: 20px;
+  height: 20px;
+}
+.accordion.active .close-accordion .expand_icon svg {
+  fill: #fff;
+}
+.close-accordion .expand_icon svg {
+  fill: #1e94b2;
+}
+.close-accordion .expand_icon:hover svg {
+  animation: spin 2s linear infinite;
 }
 .accordion.open .close-accordion {
   display: none;
@@ -379,19 +417,25 @@ button.darkbtn img {
   position: absolute;
   right: 3px;
 }
+.auto-btn:hover {
+  background: #f7f7f7;
+}
+.dash-separator {
+  color: #ffffff4D;
+  margin-block: auto;
+}
 .input-group {
   background: #7C7C7C;
   padding: 7px;
-  margin: 10px 0px;
-  border-radius: 6px;
+  margin-top: 10px;
+  border-radius: 9px;
   display: flex;
-  flex-wrap: nowrap;
   justify-content: space-between;
   align-items: center;
 }
 .input-group label {
   font-family: Poppins;
-  font-size: 14px;
+  font-size: 0.8rem;
   font-weight: 400;
   line-height: 21px;
   text-align: left;
@@ -401,17 +445,26 @@ button.darkbtn img {
   border: 0;
   background: #ffffff4D;
   color: #fff;
-  margin-top: 8px;
-  padding: 6px;
-  margin-bottom: 5px;
-  border-radius: 3px !important;
+  margin-block: 4px;
+  border-radius: 5px !important;
+  width: 50px;
   box-shadow: none;
   -webkit-box-shadow: none;
+  text-align: center;
+}
+.inputs-wrapper {
+  display: flex;
+  gap: 1em;
 }
 .input-group input:focus {
   outline: none;
   box-shadow: 0px 0px 2px #1F9CB8;
   border: 0 !important;
+}
+.input-wrapper {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease-in-out;
 }
 .accordion {
   margin-bottom: 5px;
@@ -486,7 +539,7 @@ button.darkbtn img {
     linear-gradient(
       180deg,
       #1F9CB8 0%,
-      #195C8A 100%);
+      #195C8A 100%) !important;
   color: #fff;
 }
 .accordion.active .close-accordion img.white-arrow {
@@ -537,7 +590,6 @@ button.darkbtn img {
   transition: max-height 0.2s ease-out;
   max-height: 100%;
   border-radius: 0px 0px 31px 31px;
-  box-shadow: 0px 4px 24px 0px #00000040;
 }
 .collapse-btn {
   outline: none;
