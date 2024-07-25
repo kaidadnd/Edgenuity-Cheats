@@ -7,8 +7,8 @@
   --gradient:
     linear-gradient(
       180deg,
-      #1F9CB8 0%,
-      #195C8A 100%);
+      #00a6ff 0%,
+      #006CFF 100%);
   --box-shadow-clr: #0000001A;
 }
 #ues-minimized-ui {
@@ -123,8 +123,8 @@ body {
 }
 .main-container.dark-mode .darkbtn {
   background: #242526;
-  border: 2px solid #195C8A;
-  color: #1F9CB8;
+  border: 2px solid #006CFF;
+  color: #006CFF;
 }
 .main-container.dark-mode .close-accordion,
 .main-container.dark-mode .btn2 {
@@ -164,7 +164,8 @@ body {
   justify-content: space-between;
   background: #FFFFFF;
   padding: 0 20px;
-  box-shadow: 0px 4px 24px 0px #00000040;
+  box-shadow: 0px -4px 24px 0px #00000040;
+  cursor: grab;
 }
 .header .wrapper {
   display: flex;
@@ -187,6 +188,7 @@ body {
   font-size: 40px;
   border-right: 2px solid #858585;
   padding-right: 10px;
+  color: #161616;
 }
 .brand-name {
   padding-left: 10px;
@@ -218,7 +220,6 @@ body {
   width: 375px;
   height: 136px;
   border-radius: 0px 0px 31px 31px;
-  border: 0px 0px 1px 0px;
   box-shadow: 0px 4px 24px 0px #00000040;
   background: #FFFFFF;
   text-align: center;
@@ -230,6 +231,7 @@ body {
   overflow-x: hidden;
   padding: 15px;
   position: relative;
+  z-index: -1;
 }
 ::-webkit-scrollbar {
   width: 5px;
@@ -244,21 +246,15 @@ body {
   background:
     linear-gradient(
       180deg,
-      #1F9CB8 0%,
-      #195C8A 100%);
-}
-::-webkit-scrollbar-thumb:hover {
-  background:
-    linear-gradient(
-      180deg,
-      #1F9CB8 0%,
-      #195C8A 100%);
+      #006CFF 0%,
+      #005b99 100%);
+  border-radius: 10px;
 }
 .lightbtn {
-  border: 2px solid #1F9CB8;
+  border: 2px solid #006CFF;
   padding: 9px 15px 9px 37px;
   border-radius: 11px;
-  color: #1F9CB8;
+  color: #006CFF;
   margin-right: 10px;
   font-family: Poppins;
   font-size: 14px;
@@ -386,7 +382,7 @@ button.darkbtn img {
   fill: #fff;
 }
 .close-accordion .expand_icon svg {
-  fill: #1e94b2;
+  fill: #006CFF;
 }
 .close-accordion .expand_icon:hover svg {
   animation: spin 2s linear infinite;
@@ -405,10 +401,10 @@ button.darkbtn img {
       #195C8A 100%);
 }
 .accordion.active .input-group {
-  background: #17607F;
+  background: #006CFF;
 }
 .accordion.open input {
-  border-color: #17607F !important;
+  border-color: #005b99 !important;
   max-width: 100px;
 }
 .hide {
@@ -556,8 +552,8 @@ button.darkbtn img {
   background:
     linear-gradient(
       180deg,
-      #1F9CB8 0%,
-      #195C8A 100%) !important;
+      #00a6ff 0%,
+      #006CFF 100%) !important;
   color: #fff;
 }
 .accordion.active .close-accordion img.white-arrow {
@@ -609,6 +605,8 @@ button.darkbtn img {
   max-height: 100%;
   border-radius: 0px 0px 31px 31px;
   box-shadow: 0px 4px 24px 0px #00000040;
+  position: fixed;
+  z-index: -1;
 }
 .collapse-btn {
   outline: none;
@@ -626,11 +624,11 @@ button.darkbtn img {
   background: #F3F3F3;
 }
 .dark-bg {
-  background: #3a3b3c;
+  background: #141517;
 }
 .menu-list {
   display: flex;
-  gap: 5px;
+  gap: 10px;
   justify-content: center;
 }
 .Revolt-dark-mode :root,
@@ -789,4 +787,15 @@ button.darkbtn img {
   text-align: center;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   pointer-events: none;
+}
+.main-container.dark-mode .custom-tooltip {
+  background: #242526;
+  color: #fff;
+}
+.main-container.dark-mode .lockIcon {
+  fill: #707070;
+}
+.main-container.dark-mode .locked {
+  background-color: #37393a !important;
+  color: #707070;
 }
