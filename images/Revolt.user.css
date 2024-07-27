@@ -439,13 +439,16 @@ button.darkbtn img {
   margin-block: auto;
 }
 .input-group {
-  background: #7C7C7C;
+  background: #a1a1a1;
   padding: 7px;
   margin-top: 10px;
   border-radius: 9px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+.dark-mode .input-group {
+  background: #7C7C7C;
 }
 .input-group label {
   font-family: Poppins;
@@ -455,25 +458,30 @@ button.darkbtn img {
   text-align: left;
   color: #FFFFFF;
 }
-.input-group input {
+.input-group .input-field {
   border: 0;
   background: #ffffff4D;
   color: #fff;
   margin-block: 4px;
   border-radius: 5px !important;
-  width: 50px;
   box-shadow: none;
   -webkit-box-shadow: none;
   text-align: center;
+  font-size: 14px;
+}
+.input-group .input-field span {
+  font-size: 12px;
+}
+.input-group input {
+  width: 50px;
+}
+.input-group .input-field:focus {
+  outline: none;
+  border: 0 !important;
 }
 .inputs-wrapper {
   display: flex;
   gap: 1em;
-}
-.input-group input:focus {
-  outline: none;
-  box-shadow: 0px 0px 2px #1F9CB8;
-  border: 0 !important;
 }
 .input-wrapper {
   max-height: 0;
@@ -798,4 +806,52 @@ button.darkbtn img {
 .main-container.dark-mode .locked {
   background-color: #37393a !important;
   color: #707070;
+}
+.custom-select {
+  position: relative;
+  display: inline-block;
+  width: 200px;
+}
+.custom-select button {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-inline: 5px;
+}
+.custom-select svg {
+  width: 16px;
+  fill: white;
+}
+.custom-options {
+  width: 200px;
+  position: absolute;
+  background-color: #f9f9f9;
+  color: #545454;
+  max-height: 0px;
+  overflow-y: auto;
+  z-index: 999;
+  border-radius: 5px;
+  transition: max-height 0.3s ease-in-out !important;
+  list-style: none;
+  padding: 0;
+  font-size: 12px;
+  right: 0;
+  margin-inline: 17px;
+  margin-top: -7px;
+  box-shadow: 0px -4px 24px 0px #00000040;
+}
+.dark-mode .custom-options {
+  background-color: #242526;
+  color: #fff;
+}
+.opened.custom-options {
+  max-height: 200px;
+}
+.custom-options li {
+  padding: 5px;
+}
+.custom-options li:hover {
+  background-color: #006CFF;
+  color: white;
 }
