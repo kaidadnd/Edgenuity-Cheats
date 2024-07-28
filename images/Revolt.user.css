@@ -771,6 +771,8 @@ button.input-field {
 }
 .tooltip-wrapper {
   position: relative;
+  display: flex;
+  align-items: center;
 }
 .tooltip-wrapper .custom-tooltip {
   top: -30px;
