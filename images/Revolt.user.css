@@ -314,7 +314,7 @@ button.darkbtn svg {
   margin: 3px;
 }
 .menu-icon {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 .close-accordion {
   box-shadow: 0px 4px 8px 0px #0000001A;
@@ -802,7 +802,7 @@ button.input-field {
 .settings-dropdown {
   position: fixed;
   right: 0;
-  bottom: 27px;
+  bottom: 36px;
   padding: 3px 12px 3px 10px;
   box-shadow: 0px 2px 10px 0px #00000040;
   z-index: -1;
