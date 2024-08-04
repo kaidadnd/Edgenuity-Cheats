@@ -1,4 +1,4 @@
-# 🚀 1# Edgenuity Hack
+# 🚀 1# Edgenuity Script
 
 **Revolt is #1 script for Edgenuity. Also known as Edgenuity bot, Edgenuity is a common site used for middle school, high school and college classes.**
 
