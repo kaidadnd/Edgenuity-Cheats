@@ -1,41 +1,40 @@
-# 🚀 Revolt Edgenuity Bot
+# 🚀 1# Edgenuity Hack
 
-Join the RevoltEdge Discord server!
+**Revolt is #1 script for Edgenuity. Edgenuity is Edgenuity is a common site used for middle school, high school and college classes.**
 
-
-https://discord.gg/JqVMfUHzEF
-
+[Join the Revolt Discord server!](https://discord.gg/JqVMfUHzEF)
 
 
 https://github.com/user-attachments/assets/31dc4726-10d6-495e-ad7b-aafd5f0afbec
 
+
 🎯 **100% Accurate**
 
-🕵️ **Completely Undetectable**
+🕵️ **Completely Undetectable by Edgenuity**
 
 🤖 **Fully automated**
 
 
 # 🔍 How It Works
 
-Revolt is a Tampermonkey script that is as easy as a two-click install. Once installed, it will seamlessly integrate Into any website, automatically completing assignments, quizzes, and tests. It can even skip some videos!
+Revolt is a Tampermonkey script that is as easy as a two-click install. Once installed, it will seamlessly integrate Into Edgenuity, automatically completing assignments, quizzes, and tests on Edgenuity. It can even skip some videos!
 
 
 # 🔍 What It Does
 
-Revolt is the #1  fully automated CourseTool.
+Revolt is the #1 fully automated Edgenuity CourseTool.
 
 Features:
 
-🌟 Interactive UI
+✨ Auto Answer Quizzes/Tests
 
 ✨ Auto Assignments
 
-✨ Auto Quizzes/Tests
+✨ Interactive UI
 
 ✨ Auto Advance
 
-✨ Duplicate Tabs
+✨ Auto Writting
 
 ✨ Frame Unlocker
 
@@ -43,12 +42,12 @@ Features:
 
 And more+
 
-Fully Automated 🔒
-
 Works on all types of coursework!
 
 Edgenuity Script
 Edgenuity Hacks
+Edgenuity Answers
+Edgenuity Bot
 
 # ⚠️ Disclaimer
 Please be aware that using scripts to automatically answer assignments may constitute academic dishonesty. We don’t recommend you use Revolt for edgenuity specifically. Revolt wasn’t made for edgenuity, it was made to automate all sites. It just happens to work with that site. We strongly advise against using this tool in situations where it violates educational integrity or institutional policies. This script is provided for educational and demonstration purposes only, and we do not endorse its use for unethical practices.
