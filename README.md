@@ -16,7 +16,8 @@ https://github.com/user-attachments/assets/ad7c6cab-6101-4d65-bb5f-1cd455fe62bd
 
 # 🔍 How to use the script?
 
-[Join Our Discord Server to use the script](https://discord.gg/JqVMfUHzEF)
+Join Our Discord Server to use the script
+https://discord.gg/JqVMfUHzEF
 
 # 🔍 What It Does
 
