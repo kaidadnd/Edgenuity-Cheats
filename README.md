@@ -18,8 +18,6 @@ https://github.com/user-attachments/assets/ad7c6cab-6101-4d65-bb5f-1cd455fe62bd
 
 [Join Our Discord Server to use the script](https://discord.gg/JqVMfUHzEF)
 
-Revolt is a Tampermonkey script that is as easy as a two-click install. Once installed, it will seamlessly integrate Into Edgenuity, automatically completing assignments, quizzes, and tests on Edgenuity. It can even skip some videos!
-
 # 🔍 What It Does
 
 Revolt has many functionalities, Revolt gets 100% of Edgenuity Answers, Auto Skips Videos in as easy as two clicks to install!
