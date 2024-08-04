@@ -1,11 +1,11 @@
 # 🚀 1# Edgenuity Hack
 
-**Revolt is #1 script for Edgenuity. Edgenuity is Edgenuity is a common site used for middle school, high school and college classes.**
+**Revolt is #1 script for Edgenuity. Also known as Edgenuity bot, Edgenuity is a common site used for middle school, high school and college classes.**
 
 [Join the Revolt Discord server!](https://discord.gg/JqVMfUHzEF)
 
 
-https://github.com/user-attachments/assets/31dc4726-10d6-495e-ad7b-aafd5f0afbec
+https://github.com/user-attachments/assets/ad7c6cab-6101-4d65-bb5f-1cd455fe62bd
 
 
 🎯 **100% Accurate**
@@ -14,15 +14,13 @@ https://github.com/user-attachments/assets/31dc4726-10d6-495e-ad7b-aafd5f0afbec
 
 🤖 **Fully automated**
 
-
 # 🔍 How It Works
 
 Revolt is a Tampermonkey script that is as easy as a two-click install. Once installed, it will seamlessly integrate Into Edgenuity, automatically completing assignments, quizzes, and tests on Edgenuity. It can even skip some videos!
 
-
 # 🔍 What It Does
 
-Revolt is the #1 fully automated Edgenuity CourseTool.
+Revolt has many functionalities, Revolt gets 100% of Edgenuity Answers, Auto Skips Videos in as easy as two clicks to install!
 
 Features:
 
@@ -34,7 +32,7 @@ Features:
 
 ✨ Auto Advance
 
-✨ Auto Writting
+✨ Auto Writing
 
 ✨ Frame Unlocker
 
@@ -44,10 +42,7 @@ And more+
 
 Works on all types of coursework!
 
-Edgenuity Script
-Edgenuity Hacks
-Edgenuity Answers
-Edgenuity Bot
-
-# ⚠️ Disclaimer
-Please be aware that using scripts to automatically answer assignments may constitute academic dishonesty. We don’t recommend you use Revolt for edgenuity specifically. Revolt wasn’t made for edgenuity, it was made to automate all sites. It just happens to work with that site. We strongly advise against using this tool in situations where it violates educational integrity or institutional policies. This script is provided for educational and demonstration purposes only, and we do not endorse its use for unethical practices.
+Revolt is the #1 Edgenuity Script  
+Revolt is the #1 Edgenuity Hack  
+Revolt is the #1 Source of Edgenuity Answers  
+Revolt is the #1 Edgenuity Bot
