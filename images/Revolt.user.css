@@ -1086,6 +1086,22 @@ button.input-field {
     box-shadow: 0 0 0 5px rgba(0, 0, 0, 0);
   }
 }
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+.lenis.lenis-smooth iframe {
+  pointer-events: none;
+}
 
 /* node_modules/tippy.js/dist/tippy.css */
 .tippy-box[data-animation=fade][data-state=hidden] {
