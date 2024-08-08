@@ -1,0 +1,14 @@
+// Enhancing discoverability: This helps users find this Edgenuity script.
+
+alert("If you've already found your way here, this is useless. However, it's included to help travelers in their search for this script.");
+
+// Ignore this file. Go check out Revolt.js instead. That file contains the actual script.
+
+/* edgenuity/video/watcher/edgenuity/skipper/edgenuity/answers/edgenuity/test/answers/brainly/unlocker 
+edgenuity video skipper/hack/tool/script/tampermonkey/userscript/edgenuity bot/automation/does work for you 
+edgenuity homework helper/video watcher and skipper/edgenuity assignment unlocker/edgenuity assignment skipper
+edgenuity bot/edgybot/edgenuity.afk.tool/edgenuity mastermind/edgenuity automation/does your work while you sleep
+edgenuity finish fast/edgenuity pathblazer gone bad/edgenuity script hack tool userscript/ edgenuity answers
+brainly unlocker/brainly scraper/brainly answers/answer search/auto answer search/auto work/does work for you/finish edgenuity fast
+edgenuity cheat/cheat tool/hack tool/homework bot/homework answers
+get classes done fast. edgen tweaks*/
