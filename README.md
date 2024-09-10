@@ -43,6 +43,14 @@ Features:
 
 [Join our Here to use the script](https://discord.gg/JqVMfUHzEF)
 
+
+Works on all types of coursework!
+Edgenuity hacks, edgenuity bot, edgenuity script
+Revolt is the #1 Edgenuity Script  
+Revolt is the #1 Edgenuity Hack  
+Revolt is the #1 Source of Edgenuity Answers  
+Revolt is the #1 Edgenuity Bot
+
 -- Resources -- 
 
 https://discord.gg/edgenuity
@@ -51,9 +59,3 @@ https://discord.gg/edgenuityhelp.io
 
 https://www.reddit.com/r/EdgenuityHubs/
 
-Works on all types of coursework!
-Edgenuity hacks, edgenuity bot, edgenuity script
-Revolt is the #1 Edgenuity Script  
-Revolt is the #1 Edgenuity Hack  
-Revolt is the #1 Source of Edgenuity Answers  
-Revolt is the #1 Edgenuity Bot
