@@ -44,8 +44,11 @@ Features:
 [Join our Here to use the script](https://discord.gg/JqVMfUHzEF)
 
 -- Resources -- 
+
 https://discord.gg/edgenuity
+
 https://discord.gg/edgenuityhelp.io
+
 https://www.reddit.com/r/EdgenuityHubs/
 
 Works on all types of coursework!
