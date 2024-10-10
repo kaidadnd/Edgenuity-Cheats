@@ -1100,28 +1100,6 @@ button.input-field {
       #B026FF 0%,
       #8A2BE2 100%);
 }
-#instant-exam {
-  box-shadow: 0px 0px 10px 1px #006CFF;
-  border-radius: 12px;
-}
-.theme0 #instant-exam {
-  box-shadow: 0px 0px 10px 1px #006CFF;
-}
-.theme1 #instant-exam {
-  box-shadow: 0px 0px 10px 1px #FF4E50;
-}
-.theme2 #instant-exam {
-  box-shadow: 0px 0px 10px 1px #FFA500;
-}
-.theme3 #instant-exam {
-  box-shadow: 0px 0px 10px 1px #2fe572;
-}
-.theme4 #instant-exam {
-  box-shadow: 0px 0px 10px 1px #FF80BF;
-}
-.theme5 #instant-exam {
-  box-shadow: 0px 0px 10px 1px #B026FF;
-}
 .new-tag {
   background: #F24444;
   color: #fff;
