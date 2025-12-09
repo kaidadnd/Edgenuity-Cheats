@@ -1,8 +1,11 @@
 # 🚀 1# Edgenuity bot / hacks
 
+# WEBSITE: https://revolt.ly
+# DISCORD: https://discord.gg/revoltly
+
 **Revolt is #1 script for Edgenuity. Also known as Edgenuity bot, Edgenuity is a common site used for middle school, high school and college classes.**
 
-[Join Here to use the script](https://discord.gg/JqVMfUHzEF)
+[Join Here to use the script](https://discord.gg/revoltly)
 
 
 https://github.com/user-attachments/assets/ad7c6cab-6101-4d65-bb5f-1cd455fe62bd
