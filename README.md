@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/ad7c6cab-6101-4d65-bb5f-1cd455fe62bd
 # 🔍 How to use the script?
 
 Join Our Discord Server to use the script
-https://discord.gg/JqVMfUHzEF
+https://discord.gg/revoltly
 
 # 🔍 What It Does
 
@@ -44,7 +44,7 @@ Features:
 
 # 🔍 How to use the script?
 
-[Join our Here to use the script](https://discord.gg/JqVMfUHzEF)
+[Join our Here to use the script](https://discord.gg/revoltly)
 
 
 Works on all types of coursework!
@@ -56,9 +56,9 @@ Revolt is the #1 Edgenuity Bot
 
 -- Resources -- 
 
-https://discord.gg/edgenuity
+https://discord.gg/revolty
 
-https://discord.gg/edgenuityhelp.io
+https://revolt.ly
 
 https://www.reddit.com/r/EdgenuityHubs/
 
