@@ -1,5 +1,3 @@
-// Enhancing discoverability: This helps users find this Edgenuity script.
-
 alert("If you've already found your way here, this is useless. However, it's included to help travelers in their search for this script.");
 
 // Ignore this file. Go check out Revolt.js instead. That file contains the actual script.
