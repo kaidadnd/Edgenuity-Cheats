@@ -53,6 +53,12 @@ Revolt is the #1 Edgenuity Script
 Revolt is the #1 Edgenuity Hack  
 Revolt is the #1 Source of Edgenuity Answers  
 Revolt is the #1 Edgenuity Bot
+edgenuity answer key
+edgenuity answers	
+edgenuity answer bot
+edgenuity ai
+edgenuity auto answer free
+edgenuity auto answer bot
 
 -- Resources -- 
 
